@@ -1,18 +1,10 @@
 # ComicMasivian
 Prueba Comic Masivian
 
-Primera parte de la prueba
 
+1. se debe ejecutar el archivo indexp.html el cual es el programa inicial
+2. Para poder ver ejecutar correctamente el programa hay que descargar la siguiente extensión de Google https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc/related?hl=es
+Y activarla esta extension es usada para el navegador de google y es un complemento para la ejecucucion correcta de la API.
 
-1. URL del repositorio que contiene el programa que soluciona la prueba. 
-R=  Para poder ver ejecutar correctamente el programa hay que descargar la siguiente extensión de Google https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc/related?hl=es
-Y activarla.
- 
-a. ¿Cómo construyó la solución de la prueba?
-R= la prueba la solucione investigando en internet 
- b. ¿Cuáles fueron los principales problemas con los que se encontró? 
-R= El principal problema fue la conexión con la API 
- 
-c. ¿Cómo solucionó los problemas encontrados?
-R= la prueba la solucione investigando en internet e indagando 
+3. el programa se compone de 2 programas navegables (indexp.html y contacto.html) y dos hojas de estilo 
 
