@@ -1,0 +1,106 @@
+body
+{ 
+    background-color:#fff6f1;
+    font-family:"Helvetica",Arial;
+}
+
+#contenido
+{
+  width:960px;
+  margin:0 auto;
+  text-align:center;
+}
+h1
+{
+   color:#e44e2d;
+   font-family: 'russo One', sans-serif;
+}
+header hgroup h1
+{
+	text-shadow:0px 0px 30px rgba(0,0,0,0.5);
+        
+}
+nav ul li
+{
+	display:inline-block;  
+        margin-right:20px;    
+        color:#1d1d1d;
+        cursor: pointer;
+	padding:5px;
+	
+	-webkit-transition:all 0.7s linear;
+	-moz-transition:all 0.7s linear;
+	-o-transition:all 0.7s linear;
+}
+nav ul li:hover
+{
+	background-color:#e44e2d;
+        color:#e44e2d;
+	border-radius:5px;
+}
+nav ul li a
+{
+	text-decoration:none;
+}
+#textopr
+{
+	width:95%;
+        height:95%;
+        background-color:#dcdcdc;
+        color:#FFF;
+        margin:0 auto;
+        text-align:left;
+        border-radius:20px;
+	padding:10px;
+        box-shadow:0px 0px 20px rgba(0,0,0,0.7);
+}
+#calif
+{
+	width:600px;
+        height:300px;
+        margin:0 auto;
+        text-align:center;
+	padding:40px;
+}
+
+a
+{
+	color: #e44e2d;	
+}
+
+#form {
+  width: 250px;
+  margin: 0 auto;
+  height: 50px;
+}
+
+#form p {
+  text-align: center;
+}
+
+#form label {
+  font-size: 20px;
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+label {
+  color: grey;
+}
+
+.clasificacion {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+
+label:hover,
+label:hover ~ label {
+  color: orange;
+}
+
+input[type="radio"]:checked ~ label {
+  color: orange;
+}
+
